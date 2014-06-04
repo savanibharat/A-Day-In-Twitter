@@ -1,0 +1,6 @@
+dbName : twitter
+dbCollection : tweets
+databaseUsername : twitterdata
+databasePassword : twitterdata
+databaseAddress : ds037997.mongolab.com
+databasePort : 37997
